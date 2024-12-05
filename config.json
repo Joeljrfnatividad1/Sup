@@ -22,9 +22,9 @@
     },
      "lavalink": {
         "lavalink": {
-            "host": "lava.catfein.com",
-            "port": 4000,
-            "password": "catfein",
+            "host": "deka.pylex.software",
+            "port": 9131,
+            "password": "Kronix",
             "secure": false
         }
     }, 
